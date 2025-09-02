@@ -9,10 +9,10 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 0</title>
-      <link>http://localhost:1313/post/test/</link>
+      <link>http://localhost:1313/post/project0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/test/</guid>
-      <description>&lt;h1 id=&#34;part-1-selfie-the-wrong-way-vs-the-right-way&#34;&gt;Part 1: Selfie: The Wrong Way vs. The Right Way&lt;/h1&gt;&#xA;&lt;h1 id=&#34;part-2-architectural-perspective-compression&#34;&gt;Part 2: Architectural Perspective Compression&lt;/h1&gt;&#xA;&lt;h1 id=&#34;part-3-the-dolly-zoom&#34;&gt;Part 3: The Dolly Zoom&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/post/project0/</guid>
+      <description>&lt;h1 id=&#34;part-1-selfie-the-wrong-way-vs-the-right-way&#34;&gt;Part 1: Selfie: The Wrong Way vs. The Right Way&lt;/h1&gt;&#xA;&lt;h1 id=&#34;part-2-architectural-perspective-compression&#34;&gt;Part 2: Architectural Perspective Compression&lt;/h1&gt;&#xA;&lt;h1 id=&#34;part-3-the-dolly-zoom&#34;&gt;Part 3: The Dolly Zoom&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/dolly.gif?v=2&#34; alt=&#34;Dolly Zoom&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
