@@ -8,5 +8,7 @@ title: Project 0
 
 # Part 3: The Dolly Zoom
 
+![Dolly Zoom](/images/dolly.gif)
+
 
 
